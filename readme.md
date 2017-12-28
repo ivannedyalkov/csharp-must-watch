@@ -7,3 +7,6 @@
   
 ## 2016
 1. [Ivaylo Kenov: **Advanced Reflection and Expression Trees**](https://www.youtube.com/watch?v=Fl3tORcgRfE) [4:13:39] [BG]
+
+## 2015
+1. [Nikolay Kostov: SOLID, DRY, YAGNI, KISS **Principles**](https://www.youtube.com/watch?v=Fl3tORcgRfE) [3:30:22] [BG]
