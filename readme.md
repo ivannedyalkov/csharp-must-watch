@@ -10,3 +10,7 @@
 
 ## 2015
 1. [Nikolay Kostov: SOLID, DRY, YAGNI, KISS **Principles**](https://www.youtube.com/watch?v=IOL_II1EDjM) [3:30:22] [BG]
+1. [Nikolay Kostov: **Introduction to Design Patterns**](https://www.youtube.com/watch?v=wWXcCWSzlLw) [1:04:11] [BG]
+	* [Creational Patterns](https://www.youtube.com/watch?v=RWhyptmXW9M) [2:49:00] [BG]
+	* [Structural Patterns](https://www.youtube.com/watch?v=Nh-p5W1mSbg) [2:14:54] [BG]
+	* [Behavioral Patterns](https://www.youtube.com/watch?v=FqghM0Hpfzk) [3:43:59] [BG]
